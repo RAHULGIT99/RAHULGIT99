@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://rahul-portfolio-tawny-omega.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rahul-valavoju/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rahul.valavoju@example.com">
-    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -54,21 +54,14 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Overview (Accurate)
 
 <div align="center">
 
-<!-- Main GitHub Stats (WORKING & GOOD) -->
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RAHULGIT99&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RAHULGIT99&show_icons=true&hide_rank=true&theme=tokyonight" />
 
 <br/><br/>
 
-<!-- GitHub Activity Graph (REPLACED broken streak) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAHULGIT99&theme=tokyo-night" />
-
-<br/><br/>
-
-<!-- Top Languages (YOU SAID THIS IS GOOD) -->
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RAHULGIT99&layout=compact&theme=tokyonight" />
 
 </div>
