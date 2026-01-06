@@ -54,11 +54,11 @@
 
 ---
 
-## 📊 GitHub Overview (Accurate)
+## 📈 GitHub Activity (Visual Only)
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RAHULGIT99&show_icons=true&hide_rank=true&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAHULGIT99&theme=tokyo-night" />
 
 <br/><br/>
 
