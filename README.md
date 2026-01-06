@@ -14,15 +14,6 @@
 
 ---
 
-## 🌱 Currently Learning
-```yaml
-Focus: Modern AI Technologies
-Interests: [Machine Learning, Deep Learning, GenAI, LLMs]
-Status: Always exploring cutting-edge tech
-```
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -61,31 +52,11 @@ Status: Always exploring cutting-edge tech
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RAHULGIT99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+<img src="https://github-readme-stats.vercel.app/api?username=RAHULGIT99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RAHULGIT99&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RAHULGIT99&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULGIT99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=RAHULGIT99&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RAHULGIT99&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULGIT99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 
 </div>
 
@@ -95,7 +66,6 @@ Status: Always exploring cutting-edge tech
 
 ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-![Visitor Count](https://profile-counter.glitch.me/RAHULGIT99/count.svg)
 
 ⭐️ From [RAHULGIT99](https://github.com/RAHULGIT99)
 
