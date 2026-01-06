@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Valavoju</h1>
 <h3 align="center">A passionate Computer Science Engineer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahulgit99" alt="rahulgit99" /></a> </p>
+<p align="left"> <a href="https://github.com/RAHULGIT99 "><img src="https://github-profile-trophy.vercel.app/?username=RAHULGIT99" alt="RAHULGIT99" /></a> </p>
 
 - 🌱 I’m currently learning **modern AI Technologies**
 
