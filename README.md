@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Rahul;Full+Stack+Developer;AI+%26+ML+Enthusiast;Code.+Create.+Innovate." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=520&lines=Hi+there!+I'm+Rahul;AI+%26+ML+Enthusiast;Code.+Create.+Innovate." alt="Typing SVG" />
 </div>
 
 <h3 align="center">🚀 Transforming ideas into reality with Code & AI</h3>
@@ -17,7 +17,10 @@
 </p>
 
 <br/>
-## 🛠️ Tech Stack
+
+---
+
+# 🛠️ **TECH STACK**
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -55,14 +58,17 @@
 
 <div align="center">
 
+<!-- Main GitHub Stats (WORKING & GOOD) -->
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RAHULGIT99&show_icons=true&theme=tokyonight" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RAHULGIT99&theme=tokyonight" />
+<!-- GitHub Activity Graph (REPLACED broken streak) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAHULGIT99&theme=tokyo-night" />
 
-<br/>
+<br/><br/>
 
+<!-- Top Languages (YOU SAID THIS IS GOOD) -->
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RAHULGIT99&layout=compact&theme=tokyonight" />
 
 </div>
@@ -72,6 +78,5 @@
 <div align="center">
 
 ### 💡 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
-
 
 </div>
